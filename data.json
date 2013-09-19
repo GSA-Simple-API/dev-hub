@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Complete Data Catalog",
+        "description": "Version 1.0",
+        "keyword": "catalog",
+        "modified": "2013-09-01 06:00:00",
+        "publisher": "API Evangelist",
+        "person": "Kin Lane",
+        "mbox": "kin.lane@gmail.com",
+        "identifier": "1",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "http://kinlane.github.io/gsa-dev-hub/json/data.json",
+                "format": "json"
+            }
+        ]
+    },
+    {
+        "title": "3 Factor X",
+        "description": "Version 1.0",
+        "keyword": "Facilities",
+        "modified": "2013-09-01 06:00:00",
+        "publisher": "API Evangelist",
+        "person": "Kin Lane",
+        "mbox": "kinlane@gmail.com",
+        "identifier": "2",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "http://kinlane.github.io/gsa-dev-hub/json/3-factor-x",
+                "format": "json"
+            }
+        ]
+    },
+    {
+        "title": "Offices",
+        "description": "Version 1.0",
+        "keyword": "Offices",
+        "modified": "2013-09-01 06:00:00",
+        "publisher": "API Evangelist",
+        "person": "Kin Lane",
+        "mbox": "kinlane@gmail.com",
+        "identifier": "3",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "http://kinlane.github.io/gsa-dev-hub/json/offices",
+                "format": "json"
+            }
+        ]
+    },
+    {
+        "title": "People",
+        "description": "Version 1.0",
+        "keyword": "People",
+        "modified": "2013-09-01 06:00:00",
+        "publisher": "API Evangelist",
+        "person": "Kin Lane",
+        "mbox": "kinlane@gmail.com",
+        "identifier": "4",
+        "accessLevel": "public",
+        "distribution": [
+            {
+                "accessURL": "http://kinlane.github.io/gsa-dev-hub/json/people",
+                "format": "json"
+            }
+        ]
+    }
+]

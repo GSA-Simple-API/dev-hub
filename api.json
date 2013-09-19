@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "espiVersion": "1.1",
+  "apis": [
+    {
+    	"name": "3 Factor X",
+      	"path": "http://api.gsa.apievangelist.com/swagger/3-Factor-X",
+      	"description": "Resources about offices"
+    },
+    {
+    	"name": "Offices",
+      	"path": "http://api.gsa.apievangelist.com/swagger/Offices",
+      	"description": "Resources about offices"
+    },
+    {
+    	"name": "People",
+      	"path": "http://api.gsa.apievangelist.com/swagger/People",
+      	"description": "Resources about people"
+    }    
+  ]
+}

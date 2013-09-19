@@ -1,0 +1,20 @@
+[
+    {
+        "x": "entry1",
+        "xfactor_1": "99",
+        "xfactor_2": "blue",
+        "xfactor_3": "round"
+    },
+    {
+        "x": "entry1",
+        "xfactor_1": "37",
+        "xfactor_2": "yellow",
+        "xfactor_3": "square"
+    },
+    {
+        "x": "entry1",
+        "xfactor_1": "22",
+        "xfactor_2": "green",
+        "xfactor_3": "triangle"
+    }
+]
